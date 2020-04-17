@@ -6,3 +6,5 @@ Mechanics are designed with [Autodesk Inventor Professional 2019](https://www.au
 which is available for free for students.
 
 Please check subfolders for further information on each version.
+
+![v2020 Robot](/v2020/Inventor/Renderings/HBG-Roboter%20v2020.png "v2020 Robot")
