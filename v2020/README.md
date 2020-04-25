@@ -4,7 +4,7 @@ Inventor folder contains the complete Inventor project for robot and base statio
 
 PDF folder contains manufacturing drawings for parts produced by milling or turning. Note that only outer dimensions and important tolerances are given. Other data must be taken from STEP files.
 
-STEP folder contains STEP files for manufacturing of parts produced by milling and turning.
+STEP folder contains STEP files for manufacturing of parts produced by milling and turning as well as a file for the whole assembly of the robot.
 
 STL folder contains all parts manufactured by 3D printing. See subfolder for material recommendations.
 
