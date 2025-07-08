@@ -4,7 +4,7 @@ This repository contains mechanics for our robots and our base station. There is
 Mechanics are designed with: 
  - [Autodesk Inventor Professional 2019](https://www.autodesk.com/education/free-software/inventor-professional) (v2020) 
  - [Autodesk Inventor Professional 2022](https://www.autodesk.com/education/free-software/inventor-professional) (v2022) 
- - [Autodesk Inventor Professional 2023](https://www.autodesk.com/education/free-software/inventor-professional) (v2023 and v2024) 
+ - [Autodesk Inventor Professional 2023](https://www.autodesk.com/education/free-software/inventor-professional) (v2023, v2024, v2025) 
  
 Autodesk Inventor is available for free for students.
 
